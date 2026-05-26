@@ -70,7 +70,7 @@ FOOTER
 ## Main Colors
 
 | Purpose | Color | Hex Code |
-|---|---|---|
+
 | Background | Dark Aquamarine | `#004d4d` |
 | Main Accent | Bright Cyan | `#1affff` |
 
